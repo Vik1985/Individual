@@ -1,9 +1,9 @@
 body {
 	margin: 0;
-    background: url(images/TebPWZ6.jpg) no-repeat center center fixed; 
+    background: url(TebPWZ6.jpg) no-repeat center center fixed; 
 }
 div.head {
-	background: url(images/book.jpg)no-repeat bottom ;
+	background: url(book.jpg)no-repeat bottom ;
 	color: white;
 	text-align: center;
 	text-transform: uppercase;
@@ -145,7 +145,7 @@ div.post-main {
      
 }
 div.post {
-    background: url(images/self-improvement-books.jpg)no-repeat ;
+    background: url(self-improvement-books.jpg)no-repeat ;
     color:#3B1F15;
     text-shadow: black 0.1em 0.1em 0.2em;
 	float:right;
